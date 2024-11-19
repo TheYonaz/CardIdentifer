@@ -1,0 +1,14 @@
+2024/11/07-17:53:59.089 4764 Reusing MANIFEST C:\Users\TheYonaz\projectsINgit\CardIdentifer\backEnd\tmp\Default\IndexedDB\https_www.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/07-17:53:59.090 4764 Recovering log #82
+2024/11/07-17:53:59.090 4764 Reusing old log C:\Users\TheYonaz\projectsINgit\CardIdentifer\backEnd\tmp\Default\IndexedDB\https_www.ebay.com_0.indexeddb.leveldb/000082.log 
+2024/11/07-17:53:59.090 4764 Delete type=2 #80
+2024/11/07-17:53:59.100 3218 Level-0 table #87: started
+2024/11/07-17:53:59.107 3218 Level-0 table #87: 497 bytes OK
+2024/11/07-17:53:59.108 3218 Delete type=0 #82
+2024/11/07-17:53:59.108 3218 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 470 : 1
+2024/11/07-17:53:59.109 3218 Compacting 1@0 + 1@1 files
+2024/11/07-17:53:59.115 3218 Generated table #88@0: 7 keys, 435 bytes
+2024/11/07-17:53:59.115 3218 Compacted 1@0 + 1@1 files => 435 bytes
+2024/11/07-17:53:59.116 3218 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/07-17:53:59.116 3218 Delete type=2 #87
+2024/11/07-17:53:59.116 3218 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 470 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)

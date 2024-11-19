@@ -1,0 +1,14 @@
+2024/11/07-17:58:40.894 46d8 Reusing MANIFEST C:\Users\TheYonaz\projectsINgit\CardIdentifer\backEnd\tmp\Default\IndexedDB\https_www.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/07-17:58:40.894 46d8 Recovering log #86
+2024/11/07-17:58:40.895 46d8 Reusing old log C:\Users\TheYonaz\projectsINgit\CardIdentifer\backEnd\tmp\Default\IndexedDB\https_www.ebay.com_0.indexeddb.leveldb/000086.log 
+2024/11/07-17:58:40.895 46d8 Delete type=2 #84
+2024/11/07-17:58:40.904 2b4c Level-0 table #91: started
+2024/11/07-17:58:40.912 2b4c Level-0 table #91: 497 bytes OK
+2024/11/07-17:58:40.914 2b4c Delete type=0 #86
+2024/11/07-17:58:40.914 2b4c Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x18\x00\x00\x05' @ 488 : 1
+2024/11/07-17:58:40.914 2b4c Compacting 1@0 + 1@1 files
+2024/11/07-17:58:40.922 2b4c Generated table #92@0: 7 keys, 435 bytes
+2024/11/07-17:58:40.922 2b4c Compacted 1@0 + 1@1 files => 435 bytes
+2024/11/07-17:58:40.923 2b4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/07-17:58:40.923 2b4c Delete type=2 #91
+2024/11/07-17:58:40.923 2b4c Manual compaction at level-0 from '\x00\x18\x00\x00\x05' @ 488 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
